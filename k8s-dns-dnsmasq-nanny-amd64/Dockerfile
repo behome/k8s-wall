@@ -1,2 +1,0 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.1
-MAINTAINER songjixian <2197906603@qq.com>
