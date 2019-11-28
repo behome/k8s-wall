@@ -1,2 +1,2 @@
-FROM katacoda/tensorflow_serving
+FROM tensorflow/serving
 MAINTAINER songjixian <2197906603@qq.com>
